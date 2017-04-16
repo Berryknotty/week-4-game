@@ -1,0 +1,80 @@
+body {
+	background-image: url(../images/galaxy_background.jpg);
+	background-size: cover;
+
+}
+
+
+h1 {
+	float: center;
+	color: white;
+	font-size: 50px;
+	line-height: 150%;
+}
+
+h2 {
+	float: center;
+	font-family: "lumos";
+	color: white;
+}
+
+.choose {
+	width: 80px;
+}
+
+.character {
+	border-style: solid;
+	border-color: black;
+	background-color: white;
+	font-family: "serif";
+}
+
+.hero {
+	background-color: #FFF880;
+}
+
+.fighting {
+	background-color: #FF534F;
+}
+
+#picking {
+	opacity: 0.9;
+	background-color: brown;
+	width: 550px;
+	height: 250px;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+.theCenter {
+	margin: 0 auto;
+	padding: 30px;
+}
+
+#attack {
+	font-family: "lumos";
+	font-size: 24px;
+}
+
+#restart {
+	font-family: "lumos";
+	font-size: 22px;
+}
+
+#whathappens {
+	background-color: magenta;
+	color: white;
+	font-family: sans-serif;
+}
+
+#winsloses {
+	background-color: #99b4c7;
+	color: white;
+	opacity: 0.9;
+	font-family: sans-serif;
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+	padding: 20px;
+
+}
